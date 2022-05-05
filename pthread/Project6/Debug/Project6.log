@@ -1,0 +1,7 @@
+﻿  源.cpp
+e:\vs 2015 projects\project6\project6\源.cpp(242): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\vs 2015 projects\project6\project6\源.cpp(252): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\vs 2015 projects\project6\project6\源.cpp(256): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+e:\vs 2015 projects\project6\project6\源.cpp(213): warning C4752: 发现 Intel(R) 高级矢量扩展；请考虑使用 /arch:AVX
+  Project6.vcxproj -> E:\VS 2015 projects\Project6\Debug\Project6.exe
+  Project6.vcxproj -> E:\VS 2015 projects\Project6\Debug\Project6.pdb (Partial PDB)
